@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150789753257",
+    "firebase_url": "https://praktikum-b7222-default-rtdb.firebaseio.com",
+    "project_id": "praktikum-b7222",
+    "storage_bucket": "praktikum-b7222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150789753257:android:6fd3f923f688592cf49cb8",
+        "android_client_info": {
+          "package_name": "com.example.tsa_mobile_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150789753257-ei9fih2ma7m35fhniiqj6oih4hj7sa6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDZB2O7YLpm00NpG4owUbFFhcPEDNR3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150789753257-ei9fih2ma7m35fhniiqj6oih4hj7sa6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
